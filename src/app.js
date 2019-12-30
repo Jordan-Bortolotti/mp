@@ -20,7 +20,7 @@ const express = require('express'),
 	.use(new RegExp('^(?!/(js|css|font|icon|images)/)'), function(req, res, next) {
 		console.log('inbound req : ' + req.path);
 		if (process.env.NODE_ENV !== 'test') {
-			console.log(req);
+			console.log(req.query);
 		}
 		next();
 	})
