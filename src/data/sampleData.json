@@ -1,0 +1,56 @@
+[
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh3.googleusercontent.com/so_6m1-cT_WsMS5mAL0Qg6Tdj8F_FkyhAisnp5R1ruiVL5BZGSrM-B2x3sZXvCRssug=w300",
+        "subgenre": "Simulation",
+        "title": "Simulator Vape Smoke Joke",
+        "pid": "ru.proappsandgames.simulatorvapesmokejoke",
+        "rating": "3.5",
+        "rCount": "6707"
+    },
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh3.googleusercontent.com/RTWmZV_0bcJhVzpAqK3ZC8vNaS3l0vJV3RsQ6a4eAOaKFfIZGorvuyifA5GPXY-PWwc=w300",
+        "subgenre": "Adventure",
+        "title": "Underwater Survival Sim – 2",
+        "pid": "com.taigagames.underwatersurvivalsim2",
+        "rating": "3.9",
+        "rCount": "10915"
+    },
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh3.googleusercontent.com/t1nG_mTQJMlCvxuG9zb8_z_49wOB-CZqQxckePA8Lz1-bhlwldX4Iv1qOXl85_zmYA=w300",
+        "subgenre": "Action",
+        "title": "RetroArch",
+        "pid": "com.retroarch",
+        "rating": "3.8",
+        "rCount": "19397"
+    },
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh3.googleusercontent.com/NWJ2lnVldtD6uyCm8S4VM3WBxSNyMnvYDefWC-jSVsWPhPeOmqEMAZaekD4nFX613OQ=w300",
+        "subgenre": "Casino",
+        "title": "Scratch Lottery",
+        "pid": "com.ev.scratcher",
+        "rating": "4.2",
+        "rCount": "6093"
+    },
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh3.googleusercontent.com/Pp5mM5HWJNorMkllFri4Nu1PvuwKqNwFGfxNV3DBgiGDXYfRRi49pJYl4Ex7iex5SFGP=w300",
+        "subgenre": "Trivia",
+        "title": "Close Up Character - Pic Quiz!",
+        "pid": "air.com.goda.games.closeupcharacter",
+        "rating": "4.5",
+        "rCount": "97811"
+    },
+    {
+        "genre": "GAME",
+        "imgURL": "https://lh4.ggpht.com/D9GR-MTzUjK4bK9yIZsD0zJ-Tz2InYwNDq47GiXnw3vvopH7BIebffjiEICmdxaHpSVb=w300",
+        "subgenre": "Racing",
+        "title": "Go Kart Go! Ultra!",
+        "pid": "com.xformgames.gokartgoultra",
+        "rating": "3.6",
+        "rCount": "72325"
+    }
+]

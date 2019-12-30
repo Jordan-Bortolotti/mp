@@ -1,0 +1,35 @@
+{
+  "name": "mistplay",
+  "version": "1.0.0",
+  "description": "node express server for mistplay android app",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/unit/index.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-Bortolotti/mistplay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-Bortolotti/mistplay/issues"
+  },
+  "homepage": "https://github.com/Jordan-Bortolotti/mistplay#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cfenv": "^1.2.2",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "json-query": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11",
+    "supertest": "^4.0.2",
+    "tap": "^14.10.5",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.12.1"
+  }
+}
